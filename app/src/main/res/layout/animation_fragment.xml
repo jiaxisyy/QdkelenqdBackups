@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <view.AnimotionSGView
+        android:id="@+id/sg_animotion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/animotion_bg" />
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/dl_animation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <ImageView
+                android:id="@+id/iv_animation_boiling"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="296dp"
+                android:layout_marginTop="256dp"
+                android:background="@drawable/boiling" />
+
+            <TextView
+                android:id="@+id/tv_animation_setting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20px"
+                android:layout_marginTop="8px"
+                android:text="设置"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tv_now_pressure"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="100"
+                android:textColor="#7AD370"
+                android:textSize="11px" />
+
+            <TextView
+                android:id="@+id/tv_now_temperature"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="38dp"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="200"
+                android:textColor="#7AD370"
+                android:textSize="11px" />
+
+            <LinearLayout
+                android:id="@+id/ll_animation_alarmInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/ll_below"
+                android:orientation="horizontal"
+                android:visibility="invisible">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16px"
+                    android:text="警报:"
+                    android:textColor="#FF0000"
+                    android:textSize="22px" />
+
+                <TextView
+                    android:id="@+id/tv_animation_alarmInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16px"
+                    android:textColor="#FF0000"
+                    android:textSize="22px" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_below"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_alignParentBottom="true"
+                android:background="#FFFFFF"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16px"
+                        android:text="柜内压力上限"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16px"
+                        android:layout_marginTop="3px"
+                        android:text="柜内压力下限"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16px"
+                        android:layout_marginTop="8px"
+                        android:text="柜内温度上限"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16px"
+                        android:layout_marginTop="3px"
+                        android:text="柜内温度下限"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20px"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tv_an1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+
+                        android:gravity="center_horizontal"
+                        android:text="0.00"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+
+                    <TextView
+                        android:id="@+id/tv_an4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3px"
+
+                        android:gravity="center_horizontal"
+                        android:text="0.00"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+                    <TextView
+                        android:id="@+id/tv_an7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8px"
+
+                        android:gravity="center_horizontal"
+                        android:text="0.00"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+
+                    <TextView
+                        android:id="@+id/tv_an8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3px"
+
+                        android:gravity="center_horizontal"
+                        android:text="0.00"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="MPa"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3px"
+                        android:gravity="center_horizontal"
+                        android:text="MPa"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8px"
+                        android:gravity="center_horizontal"
+                        android:text="°C"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3px"
+                        android:gravity="center_horizontal"
+                        android:text="°C"
+                        android:textColor="#333333"
+                        android:textSize="20px" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="96px"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/animation_textView"
+                            android:text="升温" />
+
+                        <TextView
+                            android:id="@+id/tv_an2"
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="20dp"
+                            android:text="0.00" />
+
+                        <TextView
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="5dp"
+                            android:text="段" />
+
+                        <TextView
+
+                            android:id="@+id/tv_an3"
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="20dp"
+                            android:text="00" />
+
+                        <TextView
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="5dp"
+                            android:text="min" />
+
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3px"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/animation_textView"
+                            android:text="降温" />
+
+                        <TextView
+                            android:id="@+id/tv_an5"
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="20dp"
+
+                            android:text="0.00" />
+
+                        <TextView
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="5dp"
+                            android:text="段" />
+
+                        <TextView
+                            android:id="@+id/tv_an6"
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="20dp"
+                            android:text="00" />
+
+                        <TextView
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="5dp"
+                            android:text="min" />
+
+
+                    </LinearLayout>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8px"
+                        android:text="1"
+                        android:textColor="#333333"
+                        android:textSize="20px"
+                        android:visibility="invisible" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3px"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            style="@style/animation_textView"
+                            android:text="工程总用时:" />
+
+                        <TextView
+                            android:id="@+id/tv_an9"
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="10dp"
+                            android:text="000" />
+
+                        <TextView
+
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="3dp"
+                            android:text="h" />
+
+                        <TextView
+                            android:id="@+id/tv_an10"
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="10dp"
+                            android:text="000" />
+
+                        <TextView
+                            style="@style/animation_textView"
+                            android:layout_marginLeft="3dp"
+                            android:text="min" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_anDrawer"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:orientation="horizontal">
+
+            <include layout="@layout/animation_setting" />
+        </LinearLayout>
+    </android.support.v4.widget.DrawerLayout>
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">灭菌柜</string>
+    <string name="action_settings">Settings</string>
+    <string name="pp_login_affirm">确认</string>
+    <string name="PP_login_remember">记住用户名</string>
+    <string name="PP_login_succeed">恭喜你，登陆成功！</string>
+    <string name="PP_login_go_home">返回主页</string>
+    <string name="name">青岛科伦</string>
+    <string name="state">运行状态</string>
+    <string name="show">数据显示</string>
+    <string name="alarm">故障报警</string>
+
+</resources>

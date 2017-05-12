@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="140px"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8px"
+            android:gravity="center_horizontal"
+            android:text="设置"
+            android:textColor="#333333"
+            android:textSize="16px" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#63B8FF" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12px"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/animation_setting"
+                android:text="1#气动阀" />
+
+            <CheckBox
+                android:id="@+id/cb_setting1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/animation_setting"
+                android:text="2#气动阀" />
+
+            <CheckBox
+                android:id="@+id/cb_setting2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1#"
+                android:textSize="16px"
+                android:visibility="invisible" />
+
+            <TextView
+                style="@style/animation_setting"
+                android:text="进水阀" />
+
+            <CheckBox
+                android:id="@+id/cb_setting3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1#"
+                android:textSize="16px"
+                android:visibility="invisible" />
+            <TextView
+                style="@style/animation_setting"
+                android:text="加压阀" />
+
+            <CheckBox
+                android:id="@+id/cb_setting4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1#"
+                android:textSize="16px"
+                android:visibility="invisible" />
+            <TextView
+                style="@style/animation_setting"
+                android:text="泄压阀" />
+
+            <CheckBox
+                android:id="@+id/cb_setting5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1#"
+                android:textSize="16px"
+                android:visibility="invisible" />
+            <TextView
+                style="@style/animation_setting"
+                android:text="循环泵" />
+
+            <CheckBox
+                android:id="@+id/cb_setting6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1#"
+                android:textSize="16px"
+                android:visibility="invisible" />
+            <TextView
+                style="@style/animation_setting"
+                android:text="给水阀" />
+
+            <CheckBox
+                android:id="@+id/cb_setting7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1#"
+                android:textSize="16px"
+                android:visibility="invisible" />
+            <TextView
+                style="@style/animation_setting"
+                android:text="给水泵" />
+
+            <CheckBox
+                android:id="@+id/cb_setting8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/animation_setting"
+                android:text="1#排水阀" />
+
+            <CheckBox
+                android:id="@+id/cb_setting9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/animation_setting"
+                android:text="2#排水阀" />
+
+            <CheckBox
+                android:id="@+id/cb_setting10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/animation_setting"
+                android:button="@null"
+                android:checked="false" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

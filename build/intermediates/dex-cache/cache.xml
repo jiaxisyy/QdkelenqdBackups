@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_11329dab39d962476d1d3a52602faedc6f591e68.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_d6b0f7e1892d24b4429a8705f8549aaa5f68579d.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_b29b0db334789d33e75475ab8987729b141438fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_00a61441be80995c1a553e6333c7e35eee5f5d2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_bb52fa759336a28f3b233e7c757e7afa2cf76d27.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_b1ad82916ba2c969e47c29b95011fbf19a3a4217.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.9\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.koushikdutta.ion-ion-2.1.9_9e4056b524f9704efddef4546eed506616db5c29.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_966e586d62501f0178315fa559024aa355451aa2.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\gson-2.6.2_c17c38981cd59f0a67cb02a0689a27ab08e3284c.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.2.1_0d4402916818e92f3543cd36b503bc4e4c203b41.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_cdcf99f002e3fddfd62f80d71f176dfb607b5325.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_af585eb2986b2eec6b4f5ae2b226da2a9efa46d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.2.1_35345418d5889bf610fe78f258894cd687ccda3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.koushikdutta.async-androidasync-2.1.9_57a25574c03acf46e3d8915e78dd5abd8fe239ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_1fbef6d67fb9bdbadab030ba75bc0498499b3581.jar" />
+    </item>
+    <item
+        jar="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_c54b7b4212c719656631119d9b31b60fb18f0736.jar" />
+    </item>
+
+</items>

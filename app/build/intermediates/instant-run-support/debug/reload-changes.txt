@@ -1,0 +1,12 @@
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\view\AnimotionSGView$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$18$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$19$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$16$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$17$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$14$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$22$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$15$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$20$override.class
+CHANGED,C:\Users\shuang.xiang\Desktop\qdkelenqd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\fragment\AnimationFragment$21$override.class

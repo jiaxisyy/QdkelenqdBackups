@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\src\main\jniLibs"><file name="armeabi/libserialJNI.so" path="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\src\main\jniLibs\armeabi\libserialJNI.so"/></source><source path="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\libs"/></dataSet><dataSet config="debug"><source path="C:\Users\shuang.xiang\Desktop\901\qdkelenqd\app\src\debug\jniLibs"/></dataSet></merger>
